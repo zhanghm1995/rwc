@@ -7,10 +7,10 @@ In contrast, this project mainly focuses on resources about **environment percep
 These resources are sorted by different **perception** tasks and will be updated regularly. This repository conforms the principle **"not much, but good"**, involves the **excellent** resources including **papers, websits, reseachers and so on.**
 ## Table of Contents
 - [Lidar](#lidar)
-  - [Segmentation & Clustering](#Segmentation & Clustering)
-- [Sensors Fusion](#sensors fusion)
-  - [Lidar Camera Calibration](#Lidar Camera Calibration)
-  - [Object Tracking](#Object Tracking)
+  - [Segmentation & Clustering](#Segmentation-&-Clustering)
+- [Sensors Fusion](#sensors-fusion)
+  - [Lidar Camera Calibration](#Lidar-Camera-Calibration)
+  - [Object Tracking](#Object-Tracking)
 ## Lidar
 ### Segmentation & Clustering
 - depth clustering[[Paper]](http://www.ipb.uni-bonn.de/pdfs/bogoslavskyi16pfg.pdf) [[Code]](https://github.com/PRBonn/depth_clustering)
