@@ -4,9 +4,9 @@ This work is a collection of resources with code, inspired by [pwc](https://gith
 
 In contrast, this project mainly focuses on resources about **environment perception**  technology in  **autonomous vehicle** field, especially about the **lidar**, **vision**, or **sensors fusion** related algorithm.
 
-These resources are sorted by different **perception** tasks and will be updated regularly. This repository conforms the principle **"not much, but good"**, involves the **excellent** resources including **papers, websits, reseachers and so on.**
+These resources are sorted by different **perception** tasks and will be updated regularly. This repository conforms the principle **"not much, but good"**, involves the **excellent** resources including **papers, websits, researchers and so on.**
 
-If you have any question, welcome to open issues to contact me. Hope for this project would help for your study and research.
+If you have any questions, welcome to open issues to contact me. Hope for this project would help for your study and research.
 
 ## Table of Contents
 - [Lidar](#lidar)
@@ -17,6 +17,7 @@ If you have any question, welcome to open issues to contact me. Hope for this pr
 - [Sensors Fusion](#sensors-fusion)
   - [Lidar Camera Calibration](#Lidar-Camera-Calibration)
   - [Object Tracking](#Object-Tracking)
+- [Researchers](#Researchers)
 
 ## Lidar
 
@@ -53,3 +54,7 @@ If you have any question, welcome to open issues to contact me. Hope for this pr
 - precision tracking [[Paper]](http://driving.stanford.edu/papers/ICRA2013.pdf) [[Code]](https://github.com/davheld/precision-tracking)
   * David Held, Jesse Levinson, Sebastian Thrun. Precision Tracking with Sparse 3D and Dense Color 2D Data.International Conference on Robotics and Automation (ICRA), 2013.
 
+## Researchers 
+All researchers list here have offered lots of source code or greatly active in those fields listed above. It maybe have repetition with resources above, but it's still useful to know these researchers directly.
+- Guanghan Ning [[Home Page]](http://guanghan.info/) [[Github]](https://github.com/Guanghan)
+  * **Description:** My research is focused on computer vision and deep learning. Specifically, I'm interested in generic object detection and recognition, visual object tracking, human pose estimation and tracking.
