@@ -26,7 +26,11 @@ If you have any questions, welcome to open issues to contact me. Hope for this p
   * I. Bogoslavskyi and C. Stachniss. Efficient Online Segmentation for Sparse 3D Laser Scans, 2017.
 - linefit_ground_segmentation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5548059) [[Code]](https://github.com/lorenwel/linefit_ground_segmentation)
   * Himmelsbach, Michael and Hundelshausen, Felix V and Wuensche, H-J. Fast segmentation of 3d point clouds for ground vehicles, IV, 2010.
-  
+
+### Features Extraction
+- PointCNN [[Paper]](http://arxiv.org/abs/1801.07791) [[Code]](https://github.com/yangyanli/PointCNN)
+  * Yangyan Li, Rui Bu, Mingchao Sun, Wei Wu, Xinhan Di, and Baoquan Chen. PointCNN: Convolution On X-Transformed Points, NIPS, 2018.
+
 ## Vision
 
 ### Single Object Tracking
