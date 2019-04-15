@@ -6,11 +6,13 @@ In contrast, this project mainly focuses on resources about **environment percep
 
 These resources are sorted by different **perception** tasks and will be updated regularly. This repository conforms the principle **"not much, but good"**, involves the **excellent** resources including **papers, websits, reseachers and so on.**
 
+If you have any question, welcome to open issues to contact me. Hope for this project would help for your study and research.
+
 ## Table of Contents
 - [Lidar](#lidar)
   - [Segmentation & Clustering](#Segmentation-&-Clustering)
 - [Vision](#Vision)
-  - [Object Tracking](#Object-Tracking)
+  - [Single Object Tracking](#Single-Object-Tracking)
   - [MOT](#MOT)
 - [Sensors Fusion](#sensors-fusion)
   - [Lidar Camera Calibration](#Lidar-Camera-Calibration)
@@ -26,11 +28,15 @@ These resources are sorted by different **perception** tasks and will be updated
   
 ## Vision
 
-### Object Tracking
+### Single Object Tracking
 - GOTURN [[Paper]](http://davheld.github.io/GOTURN/GOTURN.pdf) [[Code]](https://github.com/davheld/GOTURN) [[Project Page]](http://davheld.github.io/GOTURN/GOTURN.html)
   * David Held, Sebastian Thrun, Silvio Savarese. Learning to Track at 100 FPS with Deep Regression Networks, ECCV, 2016.
+- ROLO---Recurrent YOLO for object tracking. [[Paper]](http://arxiv.org/abs/1607.05781) [[Code]](https://github.com/Guanghan/ROLO) [[Project Page]](http://guanghan.info/projects/ROLO/)
+  * Ning, Guanghan and Zhang, Zhi et. al.. Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking, arXiv, 2016.
 
 ### MOT
+- deep_sort [[Paper]](https://arxiv.org/abs/1703.07402) [[Code]](https://github.com/nwojke/deep_sort)
+  * Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich. Simple Online and Realtime Tracking with a Deep Association Metric, ICIP, 2017.
 - MDP_Tracking - (MDP=Markov Decision Processes) [[Paper]](http://cvgl.stanford.edu/papers/xiang_iccv15.pdf) [[Code]](https://github.com/yuxng/MDP_Tracking)
   * Yu Xiang, Alexandre Alahi, Silvio Savarese, Stanford University. Learning to Track: Online Multi-Object Tracking by Decision Making, ICCV, 2015.
 - RNN Tracking [[Paper]](https://arxiv.org/abs/1604.03635) [[Code]](https://bitbucket.org/amilan/rnntracking/overview)
